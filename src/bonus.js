@@ -1,8 +1,6 @@
-const isBananaman = require('bananaman');
-const tommo = require('../lib');
-console.log('tommo:', tommo);
+import isBananaman from 'bananaman';
 
 const check = guess => isBananaman(guess);
-tommo('dan');
+console.log('TEST');
 
-module.exports = check;
+export default check;
