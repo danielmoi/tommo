@@ -1,7 +1,7 @@
-const mate = require('./mate');
-const loudMate = require('./loudMate');
-const oldMate = require('./oldMate');
-const bonus = require('./bonus');
+import mate from './mate';
+import loudMate from './loudMate';
+import oldMate from './oldMate';
+import bonus from './bonus';
 
 export {
   mate,
