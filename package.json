@@ -2,7 +2,7 @@
   "name": "tommo",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "webpack --config webpack.config.js"
