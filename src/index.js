@@ -1,3 +1,4 @@
 import mate from './mate';
+import loudMate from './loudMate';
 
-export default mate;
+export { mate, loudMate };
