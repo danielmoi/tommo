@@ -9,7 +9,7 @@
     "build": "webpack --config webpack.config.js",
     "prepublish": "npm run build",
     "coverage": "nyc yarn spec",
-    "coveralls": "nyc yarn spec && nyc report --reporter=text-lcov | coveralls"
+    "coveralls": "nyc npm test && nyc report --reporter=text-lcov | coveralls"
   },
   "author": "Daniel Moi",
   "repository": {
