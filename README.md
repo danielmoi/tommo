@@ -49,3 +49,10 @@ const betterCommit = meh(normalCommit);
 
 // TODO: Enable JS in bash
 
+
+## Test
+`tommo` uses [Ava](https://github.com/avajs/ava)
+
+```js
+yarn run test
+```
