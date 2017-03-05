@@ -1,8 +1,14 @@
-// import mate from './mate';
-// import loudMate from './loudMate';
+import mate from './mate';
+import loudMate from './loudMate';
+import oldMate from './oldMate';
+import meh from './meh';
+import bonus from './bonus';
 
-// export { mate, loudMate };
-export mate from './mate';
-// export build, { create } from './builder';
-// export ViewModel from './view_model';
-// export ViewModelCollection from './collection';
+export {
+  mate,
+  loudMate,
+  oldMate,
+  meh,
+  bonus,
+};
+export default mate;
