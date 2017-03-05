@@ -1,6 +1,8 @@
 # Tommo
 Mate
 
+[![npm version](https://badge.fury.io/js/tommo.svg)](https://badge.fury.io/js/tommo)[![Build Status](https://travis-ci.org/danielmoi/tommo.svg?branch=master)](https://travis-ci.org/danielmoi/tommo)[![Coverage Status](https://coveralls.io/repos/github/danielmoi/tommo/badge.svg)](https://coveralls.io/github/danielmoi/tommo)
+
 ## Description
 A versatile and lightweight library for doing stuff, mate.
 
